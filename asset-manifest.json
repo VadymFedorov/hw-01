@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/hw-01/static/css/main.fbc00e18.css",
+    "main.js": "/hw-01/static/js/main.defc83f9.js",
+    "static/js/453.ed3810f9.chunk.js": "/hw-01/static/js/453.ed3810f9.chunk.js",
+    "static/media/ImageSlide1.png": "/hw-01/static/media/ImageSlide1.3d0f266b38313718a9d8.png",
+    "static/media/PopUpImg3.png": "/hw-01/static/media/PopUpImg3.0f3bd0c8d8efd001d619.png",
+    "static/media/photo2.png": "/hw-01/static/media/photo2.f603e20c6bd2f7fd7d0f.png",
+    "static/media/AdressMap.png": "/hw-01/static/media/AdressMap.70350783713fe21d2e57.png",
+    "static/media/photo1.png": "/hw-01/static/media/photo1.3496886fa01591c02a1e.png",
+    "static/media/photo7.png": "/hw-01/static/media/photo7.83a7ce9f5ef98e6f9836.png",
+    "static/media/photo4.png": "/hw-01/static/media/photo4.d8cae0e4336111d3d74a.png",
+    "static/media/PopUpImg2.png": "/hw-01/static/media/PopUpImg2.d3a737370db0b9b01bfe.png",
+    "static/media/photo3.png": "/hw-01/static/media/photo3.e0fa3bbd3db2713806bf.png",
+    "static/media/photo8.png": "/hw-01/static/media/photo8.ac047852d135e644cd2e.png",
+    "static/media/PopUpImg1.png": "/hw-01/static/media/PopUpImg1.f32b1ea40e568de418d0.png",
+    "static/media/photo5.png": "/hw-01/static/media/photo5.6ba56e0c675b548db650.png",
+    "static/media/photo9.png": "/hw-01/static/media/photo9.fc0a6d7b619a633694a6.png",
+    "static/media/VectorAboutUs.png": "/hw-01/static/media/VectorAboutUs.0c75d94f5ac86da1b7a9.png",
+    "static/media/photo6.png": "/hw-01/static/media/photo6.eac01324ce60d6c94777.png",
+    "static/media/Person1.png": "/hw-01/static/media/Person1.9e991eb5cf584de4e15d.png",
+    "static/media/item2.png": "/hw-01/static/media/item2.64e9ff21a5679a397813.png",
+    "static/media/item1.png": "/hw-01/static/media/item1.e12ae4d4e345b25519b3.png",
+    "static/media/item3.png": "/hw-01/static/media/item3.d77e80757c243f775ea0.png",
+    "static/media/Person3.png": "/hw-01/static/media/Person3.0f348666b76bbfb172c1.png",
+    "static/media/Person2.png": "/hw-01/static/media/Person2.dcd5e48b02a03c96aa2a.png",
+    "index.html": "/hw-01/index.html",
+    "main.fbc00e18.css.map": "/hw-01/static/css/main.fbc00e18.css.map",
+    "main.defc83f9.js.map": "/hw-01/static/js/main.defc83f9.js.map",
+    "453.ed3810f9.chunk.js.map": "/hw-01/static/js/453.ed3810f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fbc00e18.css",
+    "static/js/main.defc83f9.js"
+  ]
+}
